@@ -2,7 +2,7 @@ Dzimbakopa
 
     🔭 Iyi i peji ye Dzimbakopa Studio.
 
-    🌱 Iyi i dhijitari studio ichava nematuruzi edzimba.
+    🌱 Iyi i dhijitari studio yematuruzi edzimba.
 
     📫 Dzimbakopa inobatika pa imeyiri inoti kontakt at dzimbakopa.com.
 
