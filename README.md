@@ -2,7 +2,7 @@ Dzimbakopa
 
     🌱 Iyi i peji ye Dzimbakopa Studhiyo.
 
-    🌱 I dhijitari studhiyo yematuruzi edzimba ne konsavhesheni.
+    🌱 I dhijitari studhiyo yedzimba ne konsavhesheni.
 
     📫 Dzimbakopa inobatika pa imeyiri inoti kontakt at dzimbakopa.com.
 
