@@ -1,6 +1,6 @@
 Dzimbakopa
 
-    🔭 Iyi i peji ye Dzimbakopa Studio.
+    🌱 Iyi i peji ye Dzimbakopa Studio.
 
     🌱 Iyi i dhijitari studio yematuruzi edzimba.
 
