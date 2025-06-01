@@ -6,4 +6,4 @@ Dzimbakopa
 
     📫 Dzimbakopa inobatika pa imeyiri inoti kontakt at dzimbakopa.com.
 
-    🌱 Dzimbakopa i kambani yedzimba ne konsavhesheni.
+    🌱 Dzimbakopa i kambani yedzimba ne konsavhesheni , magariro akanaka.
