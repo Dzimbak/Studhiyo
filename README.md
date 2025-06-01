@@ -1,8 +1,8 @@
 Dzimbakopa
 
-    🌱 Iyi i peji ye Dzimbakopa Studio.
+    🌱 Iyi i peji ye Dzimbakopa Studhiyo.
 
-    🌱 I dhijitari studio yematuruzi edzimba ne konsavhesheni.
+    🌱 I dhijitari studhiyo yematuruzi edzimba ne konsavhesheni.
 
     📫 Dzimbakopa inobatika pa imeyiri inoti kontakt at dzimbakopa.com.
 
