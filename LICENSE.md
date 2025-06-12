@@ -1,5 +1,5 @@
 # License
-Copyright (c) Dzimba Studhiyo
+Copyright (c) Dzimbakopa Studhiyo
 
 Mvumo inopihwa, mahara, kune chero munhu anowana kopi
 yeiyi softiwe. 
