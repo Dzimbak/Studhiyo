@@ -2,4 +2,4 @@
 Copyright (c) Dzimbakopa Studhiyo
 
 Mvumo inopihwa, mahara, kune chero munhu anowana kopi
-yeiyi softiwe. 
+yeiyi softiwe ; kushandisa kuchinja kana kugovera.
