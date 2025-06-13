@@ -2,7 +2,7 @@ Dzimbakopa
 
     # Iyi i peji ye Dzimbakopa Studhiyo.
 
-    # I dhijitari studhiyo yedzimba.
+    # I dhijitari studhiyo yedzimba nevavaki.
 
     # Dzimbakopa inobatika pa imeyiri inoti kontakt at dzimbakopa.com.
 
