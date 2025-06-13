@@ -22,7 +22,7 @@ kero, pasina mvumo yavo yakajeka
 * Mamwe maitiro anogona kunzi haana kukodzera mune a 
 professional setting
 
-## Enforcement Mitoro
+## Mitoro
 
 Vatungamiri venharaunda vane basa rekujekesa nekusimbisa zviyero zvedu zve
 hunhu hunogamuchirika uye inotora danho rakakodzera uye rakanaka rekugadzirisa mukati
@@ -89,7 +89,7 @@ kudyidzana kwepachivande nevanhu vanobatanidzwa, kusanganisira kusangana kusinga
 nevaya vanotevejera Mitemo yeKuzvibata, inobvumidzwa panguva iyi.
 Kutyora mitemo iyi kunogona kukonzera kurambidzwa zvachose.
 
-### 4. Permanent Ban
+### 4. Kubviswa pano
 
 **Community Impact**: Kuratidza maitiro ekutyorwa kwenharaunda
 zviyero, kusanganisira hunhu husina kufanira, kushungurudzwa kwe
