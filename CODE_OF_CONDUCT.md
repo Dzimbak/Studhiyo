@@ -98,8 +98,6 @@ munhu, kana hutsinye kune kana kuzvidza mapoka evanhu.
 ** Mhedzisiro **: Kurambidzwa zvachose kubva kune chero rudzi rwekudyidzana neruzhinji mukati
 nharaunda.
 
-## Attribution
-
 Iyi Mitemo yeKuzvibata yakatorwa kubva ku[Contributor Covenant][homepage],
 vhezheni 2.0, inowanikwa pa
 https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
